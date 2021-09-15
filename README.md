@@ -1,7 +1,7 @@
 # GraphQL
 
 faça o download dos arquivos
-'git clone https://github.com/ThiagoBrunoPereira/GraphQL.git .'
+`git clone https://github.com/ThiagoBrunoPereira/GraphQL.git .`
 
 faça a instalação do projeto com o comando npm install
 npm install
